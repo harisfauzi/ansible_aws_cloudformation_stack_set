@@ -4,6 +4,14 @@ These modules are meant to go to Ansible community repo, when I have the time.
 
 Here is some example how to use them.
 
+Keywords:
+
+- ansible module aws cloudformation stack set
+- ansible module
+- aws cloudformation
+- cloudformation stackset
+- cloudformation stack set
+
 ## aws_cloudformation_stack_set
 
 To create a stackset with template provided in a file called `mycfn.yml`:
